@@ -3,7 +3,7 @@
 non-official version
 
 
-##Usage
+## Usage
 ```
 pip install word2vec-SISG==1.0.0
 from word2vec.trainer import Word2VecTrainer
@@ -14,7 +14,7 @@ w2v.train()
 ```
 
 
-##Data Sructure
+## Data Sructure
 ```
 input.txt  //side_num=0, neg_num=2, sentences_count=3, emb_size=[vocabulary_size]
 //word_i word_j neg_word_1 neg_word_2 co_occurrence_ij
