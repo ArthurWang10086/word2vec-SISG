@@ -1,6 +1,6 @@
 # word2vec-SISG
 《Billion-scale Recommendation with Heterogeneous Side Information at Taobao》
-non-official version
+non-official pytorch version
 
 
 ## Usage
